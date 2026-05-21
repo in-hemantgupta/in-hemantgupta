@@ -21,7 +21,8 @@
 - ☁️ Hands-on with **AWS** and **Microsoft Azure**
 - 🤖 Passionate about **Data Science, AI/ML** and modern architecture patterns
 - 👥 Experienced in **team leadership**, architecture design, and delivery under tough deadlines
-- 📖 Currently exploring: **Microservices patterns & Cloud-native development**
+- 🤖 Currently exploring: **AI-powered development tools** like GitHub Copilot, Claude, and ChatGPT to supercharge architecture & delivery
+- ☁️ Deep diving into: **Cloud-native patterns**, Microservices, and Serverless on Azure & AWS
 
 ---
 
